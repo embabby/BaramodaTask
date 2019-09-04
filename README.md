@@ -18,5 +18,5 @@ This project built using **laravel 5.5**, so your php version must be >= **7.0**
 ```
 7. Migrate the tables `php artisan migrate`
 8. Run the project! `php artisan serve`
-NOTE: if you saw this message "No application encryption key has been specified" run 'php artisan key:generate'
+9.NOTE: if you saw this message "No application encryption key has been specified" run 'php artisan key:generate'
 
